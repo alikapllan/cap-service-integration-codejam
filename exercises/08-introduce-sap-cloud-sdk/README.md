@@ -157,7 +157,7 @@ Back when we [imported the API specification](../03-import-odata-api#import-the-
 ```json
 {
   "dependencies": {
-    "@sap/cds": "^8",
+    "@sap/cds": "^9",
     "express": "^4",
     "@sap-cloud-sdk/connectivity": "^3",
     "@sap-cloud-sdk/http-client": "^3",
