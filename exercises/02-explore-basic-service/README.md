@@ -33,6 +33,8 @@ You will be presented with a graphical model representing the details in `db/sch
 
 ![The schema presented graphically](assets/graphical-schema.png)
 
+> "This looks like Access in 1998" -- CodeJam participant, Oct 2025
+
 You may have to use this button to reveal the property sheet on the right:
 
 ![property sheet button](assets/property-sheet-button.png)
